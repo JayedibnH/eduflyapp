@@ -1,0 +1,249 @@
+.mediaViewInfo {
+	--web-view-name: Intro;
+	--web-view-id: Intro;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Intro;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Intro {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Intro;
+	--web-view-id: Intro;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_16687 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: 1__Splash.html;
+	cursor: pointer;
+}
+#Rectangle_10 {
+	fill: rgba(58,88,245,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_6300_be {
+	fill: url(#Rectangle_6300_be);
+}
+.Rectangle_6300_be {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	height: 4.548px;
+	left: 133px;
+	top: 797.227px;
+}
+#Status_Bar {
+	position: absolute;
+	width: 375px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#bg {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.bg {
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#status_barlight {
+	position: absolute;
+	width: 340.328px;
+	height: 16px;
+	left: 20px;
+	top: 15px;
+	overflow: visible;
+}
+#Background {
+	fill: rgba(255,255,255,1);
+}
+.Background {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 375px;
+	height: 44px;
+	left: -20px;
+	top: -15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Battery {
+	position: absolute;
+	width: 24.328px;
+	height: 11.333px;
+	left: 316px;
+	top: 2.333px;
+	overflow: visible;
+}
+#Border {
+	position: absolute;
+	width: 22px;
+	height: 11.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cap {
+	position: absolute;
+	width: 1.328px;
+	height: 4px;
+	left: 23px;
+	top: 3.667px;
+	overflow: visible;
+}
+#Capacity {
+	position: absolute;
+	width: 18px;
+	height: 7.333px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+#Wifi {
+	position: absolute;
+	width: 15.272px;
+	height: 10.966px;
+	left: 295.694px;
+	top: 2.331px;
+	overflow: visible;
+}
+#Wifi_bp {
+	position: absolute;
+	width: 15.272px;
+	height: 10.966px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cellular_Connection {
+	position: absolute;
+	width: 17px;
+	height: 10.667px;
+	left: 273.667px;
+	top: 2.667px;
+	overflow: visible;
+}
+#Cellular_Connection_br {
+	position: absolute;
+	width: 17px;
+	height: 10.667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Bars_Time_Black {
+	position: absolute;
+	width: 54px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_bt {
+	fill: rgba(0,0,0,0);
+}
+.Background_bt {
+	overflow: visible;
+	position: absolute;
+	width: 54px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_Time {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,0.349);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_Time {
+	overflow: visible;
+	position: absolute;
+	width: 28.451px;
+	height: 11.35px;
+	left: 12.823px;
+	top: 4.89px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_10__1 {
+	position: absolute;
+	width: 190px;
+	height: 75px;
+	left: 93px;
+	top: 369px;
+	overflow: visible;
+}
+#edufly {
+	left: 1px;
+	top: -8px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	line-height: 119px;
+	margin-top: -28px;
+	text-align: center;
+	font-family: Nexa;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 63px;
+	color: rgba(255,255,255,1);
+}
